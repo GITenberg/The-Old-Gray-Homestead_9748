@@ -1,0 +1,28 @@
+_repo: The-Old-Gray-Homestead_9748
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Keyes, Frances Parkinson
+    alias: Keyes, Frances Parkinson Wheeler
+    birthdate: 1885
+    deathdate: 1970
+    gutenberg_agent_id: '3130'
+    url: http://www.gutenberg.org/2009/agents/3130
+    wikipedia: http://en.wikipedia.org/wiki/Frances_Parkinson_Keyes
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Farm life -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: The Old Gray Homestead
+url: http://www.gutenberg.org/ebooks/9748
